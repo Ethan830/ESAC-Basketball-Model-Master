@@ -1,0 +1,7 @@
+// Octoparse game results web scrapping code
+//dunksandthree.com
+//pbpstats.com
+
+Loop item{Click load more}
+Loop item{Extract Data}
+button label: event__more event__more--static
